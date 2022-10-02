@@ -79,3 +79,12 @@ h3 {
 .rgba-container input {
   width: 80px;
 }
+
+.container {
+  margin-top: 20px;
+}
+#block {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+}
